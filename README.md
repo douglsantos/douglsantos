@@ -9,7 +9,7 @@
 
 Meu nome é Douglas Santos, Software Engineer Senior apaixonado por tecnologia e Internet of Things, trabalho atualmente com microservices e arquitetura orientada a eventos.
 
-- :office_worker: Software Engineer no **Itaú Unibanco**
+- :man_technologist: Software Engineer no **Itaú Unibanco**
 - :blue_heart: Techs: Java, Spring Boot, Kotlin, Docker, Apache Kafka, Quarkus, Ubuntu, entre outras.
 - :books: Estudando Flutter e AWS :heart:
 
@@ -22,7 +22,7 @@ Meu nome é Douglas Santos, Software Engineer Senior apaixonado por tecnologia e
 
 My name is Douglas Santos, Senior Software Engineer passionate about technology and the Internet of Things, I currently work with microservices and event-oriented architecture.
 
-- :office_worker: Software Engineer At **Itaú Unibanco**
+- :man_technologist: Software Engineer At **Itaú Unibanco**
 - :blue_heart: Techs: Java, Spring Boot, Kotlin, Docker, Apache Kafka, Quarkus, Ubuntu, entre outras.
 - :books: Estudando Flutter e AWS :heart:
 
